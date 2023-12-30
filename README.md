@@ -1,0 +1,1 @@
+Proyecto brindando solucion al problema de solicitar un determinado servicio para el hogar, logrando contactar mediante una cuenta Cliente-Proveedor, brindando funciones especificas para cada tipo de usuario y haciendo una navegabilidad sencilla e intuitiva.
